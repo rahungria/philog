@@ -1,5 +1,5 @@
 from philog.logger import *
 
 
-__version__ = '0.0.1a'
+__version__ = '0.1.0'
 # modules = [logger]
