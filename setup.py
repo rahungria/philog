@@ -16,8 +16,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/rahungria/philog",
-    download_url='https://github.com/rahungria/philog/archive/0.1.2.tar.gz',
-    packages=setuptools.find_packages(),
+    download_url='https://github.com/rahungria/philog/archive/0.1.3.tar.gz',
     license='MIT',
     classifiers=[
         "Programming Language :: Python :: 3",
